@@ -1,0 +1,11 @@
+{
+  "term_count": 5208,
+  "translated_count": 5208,
+  "empty_count": 10,
+  "markup_mismatch_count": 0,
+  "markup_mismatches": [],
+  "brace_mismatch_count": 0,
+  "placeholder_remnants": 0,
+  "control_token_mismatch_count": 0,
+  "verified_installed_sha256": "5CA9918AEB1EA6F6FEFF6BB6669A36248E0DF1B17D8198E40EFD6CB67DA02120"
+}
