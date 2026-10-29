@@ -6,7 +6,7 @@
 
 ## Установка
 
-1. [Скачайте `SpellcasterUniversity_RU_Installer.exe`](release/SpellcasterUniversity_RU_Installer.exe).
+1. [Скачайте `SpellcasterUniversity_RU_Installer.exe`](https://github.com/steeepstich/spellcaster-university-russian/releases/download/v1.0.0/SpellcasterUniversity_RU_Installer.exe).
 2. Полностью закройте игру.
 3. Запустите установщик и выберите `1 — установить русификацию`.
 4. Если игра не найдена автоматически, укажите папку, где находится `Spellcaster University.exe`.
@@ -62,3 +62,4 @@ python -m pip install -r requirements-build.txt
 ## Лицензии
 
 Код установщика распространяется по лицензии MIT. Текст русского перевода — по лицензии CC BY 4.0. См. `LICENSE`, `TRANSLATION_LICENSE.md` и `THIRD_PARTY_NOTICES.md`.
+
